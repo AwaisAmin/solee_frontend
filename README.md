@@ -38,7 +38,7 @@
 Clone the project and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/solee_ecommerce.git
+git clone git@github.com:AwaisAmin/solee_frontend.git
 cd solee_ecommerce
 pnpm install
 ```

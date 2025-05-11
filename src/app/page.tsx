@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/button"
 
 export default function Home() {
   return (
@@ -14,11 +14,9 @@ export default function Home() {
         </ol>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
-          <Button>
-            Start Shopping
-          </Button>
+          <Button>Start Shopping</Button>
         </div>
       </main>
-    </div>
-  );
+         </div>
+  )
 }
